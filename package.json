@@ -1,0 +1,19 @@
+{
+  "name": "soundcloud-id",
+  "version": "1.0.0",
+  "description": "Guess a track id from a soundcloud url",
+  "repository": "olizilla/soundcloud-id",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "author": "olizilla",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^4.3.0",
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "split": "^1.0.0"
+  }
+}
